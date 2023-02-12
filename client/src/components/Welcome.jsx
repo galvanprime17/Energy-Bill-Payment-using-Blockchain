@@ -47,19 +47,7 @@ const Welcome = () => {
             Ankur Kumar -20BEE0236 
 
           </p>
- <p className="text-left mt-1 text-white font-light md:w-9/12 w-11/12 text-base">
-            Gokul Krishnan S -20BEE0184 
 
-          </p>
- <p className="text-left mt-1 text-white font-light md:w-9/12 w-11/12 text-base">
-            Akash KS -20BEE0194
-
-          </p>
- <p className="text-left mt-5 text-white font-bold md:w-9/12 w-11/12 text-base">
-           Under Guidance of: Prof. Gokulakrishnan G 
-
-
-          </p>
 
           {!currentAccount && (
             <button
